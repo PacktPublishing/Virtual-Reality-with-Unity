@@ -45,7 +45,7 @@ Steam VR<br/>
 
 
 ## Related Products
-* [Complete Virtual Reality and Augmented Reality Development with Unity]]https://www.packtpub.com/game-development/complete-virtual-reality-and-augmented-reality-development-unity)
+* [Complete Virtual Reality and Augmented Reality Development with Unity](https://www.packtpub.com/game-development/complete-virtual-reality-and-augmented-reality-development-unity)
 
 * [Unity Virtual Reality Projects - Second Edition](https://www.packtpub.com/game-development/unity-virtual-reality-projects-second-edition)
 
