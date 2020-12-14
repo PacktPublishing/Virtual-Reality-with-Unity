@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/virtual-reality-with-unity-video/9781838557447)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Virtual-Reality-with-Unity
 This is the code repository for [Virtual Reality with Unity [Video]](https://www.packtpub.com/game-development/virtual-reality-with-unity-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
